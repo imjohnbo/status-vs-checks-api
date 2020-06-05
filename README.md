@@ -5,7 +5,7 @@
 
 ## Comparison
 
-||Status|Checks|
+||Status|Checks| 
 |--|--|--|
 |Feature||
 |Feature||		
