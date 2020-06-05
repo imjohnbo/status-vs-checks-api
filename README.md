@@ -3,7 +3,7 @@
 
 ...intro text...
 
-## Comparison
+## Comparison 
 
 ||Status|Checks|
 |--|--|--|
