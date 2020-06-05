@@ -14,3 +14,5 @@
 ## Examples
 
 ## Resources
+
+- https://github.blog/2018-05-07-introducing-checks-api/
